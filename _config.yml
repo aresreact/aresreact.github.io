@@ -1,6 +1,6 @@
 title: "Full Data Alchemy"
 author: "aresreact"
-description: "Data style=\"color: #f45;\">&lt;3</b>"
+description: "Data <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
